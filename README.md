@@ -16,6 +16,6 @@
     [网站]:http://http://blog.leanote.com/freewalk
         <http://example.com/>
     <address@example.com>
-        *   阅读的方法:
-        > 打开书本。
-        > 打开电灯。
+    *   阅读的方法:
+    > 打开书本。
+    > 打开电灯。
